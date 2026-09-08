@@ -1,6 +1,9 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Proyecto herencia-polimorfismo Punto
+
+Desarrollado por: Jeronimo Andres Peña Avila
+Codigo: 20251020197
 
 ## Folder Structure
 
