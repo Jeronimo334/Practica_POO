@@ -2,6 +2,9 @@
 
 Proyecto herencia-polimorfismo Punto
 
+
+Universidad Distrital Francisco Jose de Caldas
+Modelos de programacion
 Desarrollado por: Jeronimo Andres Peña Avila
 Codigo: 20251020197
 
